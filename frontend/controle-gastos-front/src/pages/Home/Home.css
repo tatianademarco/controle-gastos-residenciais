@@ -60,3 +60,13 @@
   font-weight: 600;
   border-bottom: 3px solid #4f7cff;
 }
+
+.vermelho {
+  color: #e53935;
+  font-weight: 600;
+}
+
+.verde {
+  color: #2e7d32;
+  font-weight: 600;
+}
