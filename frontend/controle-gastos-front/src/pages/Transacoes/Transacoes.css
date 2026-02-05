@@ -1,5 +1,5 @@
 .transacoes-container {
-    padding: 20px 200px;
+    padding: 20px 12%;
 }
 
 .valor-despesa {
@@ -17,3 +17,25 @@
   margin-left: 6px;
 }
 
+/* Responsividade */
+@media (max-width: 1024px) {
+  .transacoes-container {
+    padding: 18px 9%;
+  }
+}
+
+@media (max-width: 768px) {
+  .transacoes-container {
+    padding: 14px 4%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px 2%;
+  }
+
+  .table {
+  font-size: 8px;
+}
+}

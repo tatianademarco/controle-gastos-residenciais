@@ -18,7 +18,7 @@ button {
 }
 
 .container {
-  padding: 20px 400px;
+  padding: 20px 25%;
 }
 
 .form-card {
@@ -27,7 +27,8 @@ button {
   border-radius: 16px;
   display: flex;
   gap: 10px;
-    margin-bottom: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
 }
 
 .form-card input {
@@ -86,4 +87,27 @@ button {
 
 .table tbody tr:hover {
   background: #f9fbff;
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+  .container {
+    padding: 20px 12%;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 16px 8%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 12px 4%;
+  }
+
+  .table {
+  font-size: 12px;
+}
 }
