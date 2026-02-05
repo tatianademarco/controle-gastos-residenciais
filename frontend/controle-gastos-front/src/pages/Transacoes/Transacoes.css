@@ -1,0 +1,19 @@
+.transacoes-container {
+    padding: 20px 200px;
+}
+
+.valor-despesa {
+  color: #e53935;
+  font-weight: 600;
+}
+
+.valor-receita {
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+.valor-despesa i,
+.valor-receita i {
+  margin-left: 6px;
+}
+

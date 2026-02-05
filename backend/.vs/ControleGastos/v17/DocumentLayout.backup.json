@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|c:\\users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\controlegastos.api\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|solutionrelative:controlegastos.api\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|c:\\users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\controlegastos.api\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|solutionrelative:controlegastos.api\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|c:\\users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\controlegastos.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|solutionrelative:controlegastos.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|c:\\users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\controlegastos.api\\controlegastos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2FFF668-AD3A-45AB-A4F5-395592FBE90D}|ControleGastos.Api\\ControleGastos.Api.csproj|solutionrelative:controlegastos.api\\controlegastos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "ControleGastos.Api\\Models\\Transacao.cs",
+              "ToolTip": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Transacao.cs",
+              "RelativeToolTip": "ControleGastos.Api\\Models\\Transacao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:11:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ControleGastos.Api\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Pessoa.cs",
+              "RelativeToolTip": "ControleGastos.Api\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:11:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ControleGastos.Api\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\tatim\\source\\repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\Models\\Categoria.cs",
+              "RelativeToolTip": "ControleGastos.Api\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:10:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControleGastos.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\tatim\\Source\\Repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\ControleGastos.Api.csproj",
+              "RelativeDocumentMoniker": "ControleGastos.Api\\ControleGastos.Api.csproj",
+              "ToolTip": "C:\\Users\\tatim\\Source\\Repos\\controle-gastos-residenciais\\backend\\ControleGastos.Api\\ControleGastos.Api.csproj",
+              "RelativeToolTip": "ControleGastos.Api\\ControleGastos.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T02:10:35.726Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

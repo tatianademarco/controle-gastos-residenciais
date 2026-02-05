@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\ControleGastos.Api",
+    "\\backend\\ControleGastos.Api\\Controllers",
+    "\\backend\\ControleGastos.Api\\Services",
+    "\\frontend\\controle-gastos-front",
+    "\\frontend\\controle-gastos-front\\src",
+    "\\frontend\\controle-gastos-front\\src\\pages",
+    "\\frontend\\controle-gastos-front\\src\\pages\\Home",
+    "\\frontend\\controle-gastos-front\\src\\pages\\Pessoas"
+  ],
+  "SelectedNode": "\\backend\\ControleGastos.Api\\Services\\TotaisService.cs",
+  "PreviewInSolutionExplorer": false
+}
